@@ -1,0 +1,1002 @@
+data,genero,localidade,salario
+**/06/1982,Female,"Stockholm, Stockholm, Sweden",$6525.14
+**/06/1982,Female,"Stockholm, Stockholm, Sweden",$2282.24
+**/02/1997,Male,"**, Porto, Portugal",$2932.96
+**/02/1997,Male,"**, Porto, Portugal",$4472.72
+**/02/2010,Male,"**, Île-de-France, France",$1348.85
+**/02/2010,Male,"**, Île-de-France, France",$7109.56
+**/03/1995,Female,"**, Aquitaine, France",$5475.66
+**/03/1995,Female,"**, Aquitaine, France",$3531.22
+**/04/1981,Female,"**, Île-de-France, France",$2654.98
+**/04/1981,Female,"**, Île-de-France, France",$3435.34
+**/04/1991,Male,"**, Stockholm, Sweden",$4912.45
+**/04/1991,Male,"**, Stockholm, Sweden",$4176.07
+**/05/1985,Male,"**, Île-de-France, France",$6939.54
+**/05/1985,Male,"**, Île-de-France, France",$3752.70
+**/08/2003,Female,"**, Languedoc-Roussillon, France",$3478.88
+**/08/2003,Female,"**, Languedoc-Roussillon, France",$1336.07
+**/08/2003,Male,"**, Lisboa, Portugal",$2866.63
+**/08/2003,Male,"**, Lisboa, Portugal",$7660.68
+**/08/2007,Female,"**, Île-de-France, France",$3525.88
+**/08/2007,Female,"**, Île-de-France, France",$5163.00
+**/10/1993,Female,"**, Île-de-France, France",$6649.25
+**/10/1993,Female,"**, Île-de-France, France",$6294.64
+**/12/1984,Female,"**, Västra Götaland, Sweden",$2350.70
+**/12/1984,Female,"**, Västra Götaland, Sweden",$5701.55
+**/12/1986,Female,"**, Île-de-France, France",$2918.64
+**/12/1986,Female,"**, Île-de-France, France",$7474.04
+**/12/2006,Female,"**, Île-de-France, France",$2561.84
+**/12/2006,Female,"**, Île-de-France, France",$5352.76
+**/**/1981,Female,"**, Coimbra, Portugal",$4450.49
+**/**/1981,Female,"**, Coimbra, Portugal",$5847.43
+**/**/1981,Female,"**, Porto, Portugal",$7847.46
+**/**/1981,Female,"**, Porto, Portugal",$7548.51
+**/**/1981,Male,"**, Alsace, France",$4263.66
+**/**/1981,Male,"**, Alsace, France",$6987.28
+**/**/1981,Male,"**, Massachusetts, United States",$5002.09
+**/**/1981,Male,"**, Massachusetts, United States",$6189.32
+**/**/1981,Male,"**, Texas, United States",$4000.92
+**/**/1981,Male,"**, Texas, United States",$6749.17
+**/**/1982,Female,"**, Porto, Portugal",$6369.60
+**/**/1982,Female,"**, Porto, Portugal",$1708.14
+**/**/1982,Female,"**, Québec, Canada",$3027.02
+**/**/1982,Female,"**, Québec, Canada",$5074.78
+**/**/1982,Female,"**, Skåne, Sweden",$4407.88
+**/**/1982,Female,"**, Skåne, Sweden",$1322.83
+**/**/1983,Female,"**, Leiria, Portugal",$4776.95
+**/**/1983,Female,"**, Leiria, Portugal",$3229.72
+**/**/1983,Female,"**, Stockholm, Sweden",$5412.88
+**/**/1983,Female,"**, Stockholm, Sweden",$3246.27
+**/**/1983,Male,"**, Stockholm, Sweden",$7922.29
+**/**/1983,Male,"**, Stockholm, Sweden",$2282.26
+**/**/1983,Male,"**, Île-de-France, France",$1020.66
+**/**/1983,Male,"**, Île-de-France, France",$6946.23
+**/**/1983,Male,"**, Île-de-France, France",$5521.83
+**/**/1984,Female,"**, Provence-Alpes-Côte d'Azur, France",$6860.11
+**/**/1984,Female,"**, Provence-Alpes-Côte d'Azur, France",$5814.99
+**/**/1984,Female,"**, Viana do Castelo, Portugal",$5788.73
+**/**/1984,Female,"**, Viana do Castelo, Portugal",$7319.09
+**/**/1984,Female,"**, Île-de-France, France",$5823.97
+**/**/1984,Female,"**, Île-de-France, France",$1246.34
+**/**/1984,Male,"**, Braga, Portugal",$1558.87
+**/**/1984,Male,"**, Braga, Portugal",$2558.30
+**/**/1984,Male,"**, Québec, Canada",$5790.08
+**/**/1984,Male,"**, Québec, Canada",$6662.13
+**/**/1984,Male,"**, Setúbal, Portugal",$2661.36
+**/**/1984,Male,"**, Setúbal, Portugal",$4443.31
+**/**/1985,Female,"**, Jönköping, Sweden",$4733.60
+**/**/1985,Female,"**, Jönköping, Sweden",$5238.49
+**/**/1985,Female,"**, Newfoundland and Labrador, Canada",$5677.54
+**/**/1985,Female,"**, Newfoundland and Labrador, Canada",$3993.28
+**/**/1985,Female,"**, Porto, Portugal",$1488.42
+**/**/1985,Female,"**, Porto, Portugal",$3248.92
+**/**/1985,Female,"**, Porto, Portugal",$7276.96
+**/**/1985,Female,"**, Porto, Portugal",$4320.80
+**/**/1985,Female,"**, Stockholm, Sweden",$4391.85
+**/**/1985,Female,"**, Stockholm, Sweden",$1145.67
+**/**/1985,Male,"**, Västra Götaland, Sweden",$6881.36
+**/**/1985,Male,"**, Västra Götaland, Sweden",$6436.46
+**/**/1986,Female,"**, Braga, Portugal",$2309.35
+**/**/1986,Female,"**, Braga, Portugal",$7659.54
+**/**/1986,Female,"**, Stockholm, Sweden",$4664.24
+**/**/1986,Female,"**, Stockholm, Sweden",$5373.09
+**/**/1986,Female,"**, Stockholm, Sweden",$7701.36
+**/**/1987,Female,"**, Viseu, Portugal",$7760.46
+**/**/1987,Female,"**, Viseu, Portugal",$1367.51
+**/**/1987,Female,"**, Île-de-France, France",$3108.98
+**/**/1987,Female,"**, Île-de-France, France",$5511.34
+**/**/1988,Female,"**, Ilha de São Miguel, Portugal",$4022.26
+**/**/1988,Female,"**, Ilha de São Miguel, Portugal",$1426.01
+**/**/1988,Female,"**, Ilha de São Miguel, Portugal",$4126.56
+**/**/1988,Female,"**, Setúbal, Portugal",$1404.57
+**/**/1988,Female,"**, Setúbal, Portugal",$1160.22
+**/**/1988,Male,"**, Centre, France",$5485.14
+**/**/1988,Male,"**, Centre, France",$3812.30
+**/**/1989,Male,"**, Bretagne, France",$5459.27
+**/**/1989,Male,"**, Bretagne, France",$4197.51
+**/**/1989,Male,"**, Franche-Comté, France",$3772.66
+**/**/1989,Male,"**, Franche-Comté, France",$7125.73
+**/**/1989,Male,"**, Île-de-France, France",$4959.20
+**/**/1989,Male,"**, Île-de-France, France",$6691.81
+**/**/1990,Female,"**, Faro, Portugal",$1610.27
+**/**/1990,Female,"**, Faro, Portugal",$3082.24
+**/**/1990,Female,"**, Porto, Portugal",$5823.77
+**/**/1990,Female,"**, Porto, Portugal",$6169.95
+**/**/1990,Female,"**, Västra Götaland, Sweden",$4161.69
+**/**/1990,Female,"**, Västra Götaland, Sweden",$5126.92
+**/**/1990,Male,"**, Västra Götaland, Sweden",$7924.89
+**/**/1990,Male,"**, Västra Götaland, Sweden",$3840.66
+**/**/1990,Male,"**, Île-de-France, France",$7503.54
+**/**/1990,Male,"**, Île-de-France, France",$5004.78
+**/**/1991,Male,"**, Florida, United States",$5721.70
+**/**/1991,Male,"**, Florida, United States",$7516.22
+**/**/1991,Male,"**, Västra Götaland, Sweden",$4930.16
+**/**/1991,Male,"**, Västra Götaland, Sweden",$7885.38
+**/**/1992,Female,"**, Rhône-Alpes, France",$3055.75
+**/**/1992,Female,"**, Rhône-Alpes, France",$5447.93
+**/**/1992,Female,"**, Viseu, Portugal",$5919.34
+**/**/1992,Female,"**, Viseu, Portugal",$6639.31
+**/**/1992,Female,"**, Västra Götaland, Sweden",$5268.12
+**/**/1992,Female,"**, Västra Götaland, Sweden",$6651.08
+**/**/1992,Male,"**, Ontario, Canada",$6598.41
+**/**/1992,Male,"**, Ontario, Canada",$7565.57
+**/**/1992,Male,"**, Ontario, Canada",$3468.54
+**/**/1993,Male,"**, California, United States",$2795.69
+**/**/1993,Male,"**, California, United States",$953.73
+**/**/1993,Male,"**, Île-de-France, France",$7733.10
+**/**/1993,Male,"**, Île-de-France, France",$1022.20
+**/**/1994,Female,"**, Ontario, Canada",$7060.60
+**/**/1994,Female,"**, Ontario, Canada",$3688.22
+**/**/1994,Female,"**, Stockholm, Sweden",$6950.84
+**/**/1994,Female,"**, Stockholm, Sweden",$2943.14
+**/**/1994,Male,"**, Braga, Portugal",$3868.21
+**/**/1994,Male,"**, Braga, Portugal",$7794.99
+**/**/1994,Male,"**, Pays de la Loire, France",$7145.67
+**/**/1994,Male,"**, Pays de la Loire, France",$1265.76
+**/**/1994,Male,"**, Setúbal, Portugal",$7159.29
+**/**/1994,Male,"**, Setúbal, Portugal",$7189.04
+**/**/1995,Female,"**, Porto, Portugal",$948.41
+**/**/1995,Female,"**, Porto, Portugal",$4764.60
+**/**/1995,Female,"**, Québec, Canada",$7292.50
+**/**/1995,Female,"**, Québec, Canada",$3488.65
+**/**/1995,Female,"**, Stockholm, Sweden",$2007.00
+**/**/1995,Female,"**, Stockholm, Sweden",$7278.18
+**/**/1995,Male,"**, Ontario, Canada",$6383.39
+**/**/1995,Male,"**, Ontario, Canada",$6983.95
+**/**/1995,Male,"**, Stockholm, Sweden",$3372.24
+**/**/1995,Male,"**, Stockholm, Sweden",$6327.46
+**/**/1995,Male,"**, Île-de-France, France",$5825.49
+**/**/1995,Male,"**, Île-de-France, France",$3945.26
+**/**/1996,Female,"**, Languedoc-Roussillon, France",$1958.82
+**/**/1996,Female,"**, Languedoc-Roussillon, France",$3849.89
+**/**/1996,Female,"**, Porto, Portugal",$7202.43
+**/**/1996,Female,"**, Porto, Portugal",$3296.00
+**/**/1996,Female,"**, Rhône-Alpes, France",$5399.22
+**/**/1996,Female,"**, Rhône-Alpes, France",$4630.99
+**/**/1996,Male,"**, Braga, Portugal",$1657.74
+**/**/1996,Male,"**, Braga, Portugal",$3574.50
+**/**/1996,Male,"**, Lisboa, Portugal",$6026.38
+**/**/1996,Male,"**, Lisboa, Portugal",$6063.49
+**/**/1997,Female,"**, Québec, Canada",$4240.55
+**/**/1997,Female,"**, Québec, Canada",$3646.85
+**/**/1997,Male,"**, Braga, Portugal",$3200.30
+**/**/1997,Male,"**, Braga, Portugal",$2867.51
+**/**/1998,Female,"**, Québec, Canada",$3976.35
+**/**/1998,Female,"**, Québec, Canada",$2268.22
+**/**/1998,Female,"**, Setúbal, Portugal",$877.91
+**/**/1998,Female,"**, Setúbal, Portugal",$2335.56
+**/**/1998,Female,"**, Stockholm, Sweden",$2909.91
+**/**/1998,Female,"**, Stockholm, Sweden",$5338.30
+**/**/1998,Male,"**, Florida, United States",$7355.48
+**/**/1998,Male,"**, Florida, United States",$2212.91
+**/**/1998,Male,"**, Rhône-Alpes, France",$1191.22
+**/**/1998,Male,"**, Rhône-Alpes, France",$6223.79
+**/**/1999,Female,"**, Stockholm, Sweden",$4848.93
+**/**/1999,Female,"**, Stockholm, Sweden",$3873.74
+**/**/1999,Male,"**, Bretagne, France",$5116.30
+**/**/1999,Male,"**, Bretagne, France",$6856.56
+**/**/1999,Male,"**, Porto, Portugal",$3392.24
+**/**/1999,Male,"**, Porto, Portugal",$3200.25
+**/**/1999,Male,"**, Viseu, Portugal",$3618.49
+**/**/1999,Male,"**, Viseu, Portugal",$6056.46
+**/**/1999,Male,"**, Västerbotten, Sweden",$1611.42
+**/**/1999,Male,"**, Västerbotten, Sweden",$3109.94
+**/**/2000,Female,"**, Coimbra, Portugal",$5999.29
+**/**/2000,Female,"**, Coimbra, Portugal",$3399.67
+**/**/2000,Female,"**, Santarém, Portugal",$3375.21
+**/**/2000,Female,"**, Santarém, Portugal",$5964.41
+**/**/2000,Female,"**, Île-de-France, France",$5316.35
+**/**/2000,Female,"**, Île-de-France, France",$2452.61
+**/**/2000,Male,"**, Setúbal, Portugal",$3591.12
+**/**/2000,Male,"**, Setúbal, Portugal",$3573.26
+**/**/2001,Female,"**, Alberta, Canada",$7801.31
+**/**/2001,Female,"**, Alberta, Canada",$3909.93
+**/**/2001,Male,"**, Västra Götaland, Sweden",$6578.25
+**/**/2001,Male,"**, Västra Götaland, Sweden",$5977.38
+**/**/2002,Female,"**, Aveiro, Portugal",$4713.83
+**/**/2002,Female,"**, Aveiro, Portugal",$6310.65
+**/**/2002,Female,"**, Porto, Portugal",$1973.45
+**/**/2002,Female,"**, Porto, Portugal",$3725.73
+**/**/2002,Female,"**, Västra Götaland, Sweden",$4382.96
+**/**/2002,Female,"**, Västra Götaland, Sweden",$6869.03
+**/**/2002,Male,"**, Québec, Canada",$3613.73
+**/**/2002,Male,"**, Québec, Canada",$1994.12
+**/**/2003,Female,"**, Provence-Alpes-Côte d'Azur, France",$6183.10
+**/**/2003,Female,"**, Provence-Alpes-Côte d'Azur, France",$5404.43
+**/**/2003,Female,"**, Stockholm, Sweden",$7718.13
+**/**/2003,Female,"**, Stockholm, Sweden",$1188.09
+**/**/2003,Male,"**, Provence-Alpes-Côte d'Azur, France",$7199.46
+**/**/2003,Male,"**, Provence-Alpes-Côte d'Azur, France",$1466.87
+**/**/2004,Female,"**, Skåne, Sweden",$7758.57
+**/**/2004,Female,"**, Skåne, Sweden",$7475.57
+**/**/2004,Male,"**, Västernorrland, Sweden",$6963.88
+**/**/2004,Male,"**, Västernorrland, Sweden",$4631.52
+**/**/2005,Female,"**, Centre, France",$1242.05
+**/**/2005,Female,"**, Centre, France",$2471.10
+**/**/2005,Female,"**, Porto, Portugal",$5283.42
+**/**/2005,Female,"**, Porto, Portugal",$7795.42
+**/**/2005,Female,"**, Rhône-Alpes, France",$7881.42
+**/**/2005,Female,"**, Rhône-Alpes, France",$7382.35
+**/**/2005,Male,"**, Ontario, Canada",$1319.03
+**/**/2005,Male,"**, Ontario, Canada",$2454.18
+**/**/2005,Male,"**, Vila Real, Portugal",$2106.68
+**/**/2005,Male,"**, Vila Real, Portugal",$4370.17
+**/**/2006,Male,"**, Québec, Canada",$3407.45
+**/**/2006,Male,"**, Québec, Canada",$5871.22
+**/**/2006,Male,"**, Île-de-France, France",$1492.88
+**/**/2006,Male,"**, Île-de-France, France",$7825.33
+**/**/2008,Female,"**, Porto, Portugal",$7233.37
+**/**/2008,Female,"**, Porto, Portugal",$5866.61
+**/**/2008,Female,"**, Veracruz Llave, Mexico",$7048.06
+**/**/2008,Female,"**, Veracruz Llave, Mexico",$6888.06
+**/**/2009,Female,"**, Colorado, United States",$4689.02
+**/**/2009,Female,"**, Colorado, United States",$943.67
+**/**/1980,Female,"**,**, Portugal",$7622.47
+**/**/1980,Female,"**,**, Portugal",$3090.80
+**/**/1980,Female,"**,**, Portugal",$1653.56
+**/**/1980,Male,"**,**, Portugal",$6314.95
+**/**/1980,Male,"**,**, Portugal",$6267.86
+**/**/1981,Female,"**,**, Canada",$6657.46
+**/**/1981,Female,"**,**, Canada",$2100.45
+**/**/1981,Female,"**,**, France",$1353.19
+**/**/1981,Female,"**,**, France",$6674.63
+**/**/1981,Female,"**,**, France",$4796.47
+**/**/1981,Female,"**,**, France",$3374.55
+**/**/1981,Female,"**,**, Portugal",$5772.69
+**/**/1981,Female,"**,**, Portugal",$7539.41
+**/**/1981,Female,"**,**, Portugal",$1133.30
+**/**/1981,Female,"**,**, Portugal",$5751.78
+**/**/1981,Female,"**,**, Sweden",$7035.04
+**/**/1981,Female,"**,**, Sweden",$4767.88
+**/**/1981,Female,"**,**, United States",$4047.44
+**/**/1981,Female,"**,**, United States",$5953.02
+**/**/1981,Female,"**,**, United States",$5249.08
+**/**/1981,Female,"**,**, United States",$1715.64
+**/**/1981,Male,"**,**, Canada",$7082.80
+**/**/1981,Male,"**,**, Canada",$5453.13
+**/**/1981,Male,"**,**, Portugal",$7973.93
+**/**/1981,Male,"**,**, Portugal",$1305.29
+**/**/1981,Male,"**,**, Portugal",$4902.14
+**/**/1981,Male,"**,**, Sweden",$5563.83
+**/**/1981,Male,"**,**, Sweden",$2161.64
+**/**/1981,Male,"**,**, Sweden",$3027.41
+**/**/1981,Male,"**,**, United States",$3362.11
+**/**/1981,Male,"**,**, United States",$5731.07
+**/**/1982,Female,"**,**, Portugal",$4052.82
+**/**/1982,Female,"**,**, Portugal",$2029.76
+**/**/1982,Female,"**,**, Portugal",$2880.77
+**/**/1982,Female,"**,**, Portugal",$3567.38
+**/**/1982,Female,"**,**, Sweden",$6563.49
+**/**/1982,Female,"**,**, Sweden",$2385.94
+**/**/1982,Female,"**,**, Sweden",$3951.59
+**/**/1982,Female,"**,**, United States",$5750.62
+**/**/1982,Female,"**,**, United States",$3358.51
+**/**/1982,Female,"**,**, United States",$1641.08
+**/**/1982,Male,"**,**, Canada",$1653.38
+**/**/1982,Male,"**,**, Canada",$6296.75
+**/**/1982,Male,"**,**, Portugal",$3783.40
+**/**/1982,Male,"**,**, Portugal",$6067.37
+**/**/1982,Male,"**,**, Portugal",$7296.43
+**/**/1982,Male,"**,**, Portugal",$962.88
+**/**/1982,Male,"**,**, Portugal",$7552.80
+**/**/1982,Male,"**,**, Sweden",$7783.26
+**/**/1982,Male,"**,**, Sweden",$3859.70
+**/**/1982,Male,"**,**, Sweden",$7314.87
+**/**/1982,Male,"**,**, United States",$3581.83
+**/**/1982,Male,"**,**, United States",$4285.93
+**/**/1982,Male,"**,**, United States",$4066.86
+**/**/1983,Female,"**,**, France",$4160.18
+**/**/1983,Female,"**,**, France",$6872.51
+**/**/1983,Female,"**,**, France",$6749.04
+**/**/1983,Female,"**,**, Portugal",$7046.63
+**/**/1983,Female,"**,**, Portugal",$7130.79
+**/**/1983,Female,"**,**, Portugal",$7453.73
+**/**/1983,Female,"**,**, Portugal",$7373.73
+**/**/1983,Female,"**,**, Sweden",$2803.76
+**/**/1983,Female,"**,**, Sweden",$7155.79
+**/**/1983,Female,"**,**, United States",$2934.66
+**/**/1983,Female,"**,**, United States",$3201.71
+**/**/1983,Female,"**,**, United States",$7589.64
+**/**/1983,Male,"**,**, France",$2655.12
+**/**/1983,Male,"**,**, France",$7537.16
+**/**/1983,Male,"**,**, Portugal",$6691.57
+**/**/1983,Male,"**,**, Portugal",$7454.96
+**/**/1983,Male,"**,**, Portugal",$942.32
+**/**/1983,Male,"**,**, Portugal",$4803.14
+**/**/1984,Female,"**,**, Mexico",$2076.62
+**/**/1984,Female,"**,**, Mexico",$7741.81
+**/**/1984,Female,"**,**, Sweden",$2809.72
+**/**/1984,Female,"**,**, Sweden",$3765.74
+**/**/1984,Male,"**,**, France",$3466.43
+**/**/1984,Male,"**,**, France",$1742.83
+**/**/1984,Male,"**,**, Portugal",$2420.72
+**/**/1984,Male,"**,**, Portugal",$3526.69
+**/**/1984,Male,"**,**, Portugal",$7345.49
+**/**/1984,Male,"**,**, Portugal",$4964.31
+**/**/1984,Male,"**,**, Sweden",$5530.85
+**/**/1984,Male,"**,**, Sweden",$3349.35
+**/**/1984,Male,"**,**, United States",$7827.47
+**/**/1984,Male,"**,**, United States",$5910.48
+**/**/1984,Male,"**,**, United States",$5411.17
+**/**/1985,Female,"**,**, France",$1238.66
+**/**/1985,Female,"**,**, France",$3201.59
+**/**/1985,Female,"**,**, France",$5772.96
+**/**/1985,Female,"**,**, France",$6430.52
+**/**/1985,Female,"**,**, Mexico",$7525.73
+**/**/1985,Female,"**,**, Mexico",$2174.45
+**/**/1985,Female,"**,**, Portugal",$2854.38
+**/**/1985,Female,"**,**, Portugal",$2411.36
+**/**/1985,Female,"**,**, Portugal",$7105.57
+**/**/1985,Female,"**,**, Portugal",$7982.36
+**/**/1985,Female,"**,**, Sweden",$6867.13
+**/**/1985,Female,"**,**, Sweden",$3014.90
+**/**/1985,Female,"**,**, Sweden",$4250.40
+**/**/1985,Female,"**,**, Sweden",$6173.77
+**/**/1985,Male,"**,**, France",$5778.85
+**/**/1985,Male,"**,**, France",$4583.37
+**/**/1985,Male,"**,**, Portugal",$5932.94
+**/**/1985,Male,"**,**, Portugal",$3863.39
+**/**/1985,Male,"**,**, Portugal",$7373.11
+**/**/1985,Male,"**,**, Portugal",$3122.25
+**/**/1985,Male,"**,**, United States",$3427.50
+**/**/1985,Male,"**,**, United States",$2816.85
+**/**/1985,Male,"**,**, United States",$3567.45
+**/**/1986,Female,"**,**, Canada",$2409.34
+**/**/1986,Female,"**,**, Canada",$1385.71
+**/**/1986,Female,"**,**, France",$976.45
+**/**/1986,Female,"**,**, France",$4783.94
+**/**/1986,Female,"**,**, France",$4680.61
+**/**/1986,Female,"**,**, United States",$7694.59
+**/**/1986,Female,"**,**, United States",$2926.75
+**/**/1986,Male,"**,**, Canada",$7689.46
+**/**/1986,Male,"**,**, Canada",$3502.45
+**/**/1986,Male,"**,**, Canada",$1318.68
+**/**/1986,Male,"**,**, Canada",$5150.96
+**/**/1986,Male,"**,**, Mexico",$3989.06
+**/**/1986,Male,"**,**, Mexico",$825.82
+**/**/1986,Male,"**,**, Portugal",$4357.15
+**/**/1986,Male,"**,**, Portugal",$4468.82
+**/**/1986,Male,"**,**, Sweden",$2881.34
+**/**/1986,Male,"**,**, Sweden",$1909.73
+**/**/1986,Male,"**,**, United States",$6235.09
+**/**/1986,Male,"**,**, United States",$6068.22
+**/**/1986,Male,"**,**, United States",$1059.41
+**/**/1986,Male,"**,**, United States",$2697.06
+**/**/1987,Female,"**,**, Canada",$4100.69
+**/**/1987,Female,"**,**, Canada",$5427.64
+**/**/1987,Female,"**,**, Canada",$1939.10
+**/**/1987,Female,"**,**, France",$2422.65
+**/**/1987,Female,"**,**, France",$3445.67
+**/**/1987,Female,"**,**, Sweden",$5057.22
+**/**/1987,Female,"**,**, Sweden",$3028.28
+**/**/1987,Female,"**,**, Sweden",$1919.83
+**/**/1987,Male,"**,**, France",$2627.52
+**/**/1987,Male,"**,**, France",$7063.28
+**/**/1987,Male,"**,**, France",$1555.57
+**/**/1987,Male,"**,**, Portugal",$1586.61
+**/**/1987,Male,"**,**, Portugal",$5038.59
+**/**/1987,Male,"**,**, Portugal",$1374.14
+**/**/1987,Male,"**,**, Portugal",$5264.43
+**/**/1987,Male,"**,**, Portugal",$5948.45
+**/**/1987,Male,"**,**, Sweden",$1755.24
+**/**/1987,Male,"**,**, Sweden",$1846.26
+**/**/1987,Male,"**,**, Sweden",$5039.13
+**/**/1987,Male,"**,**, United States",$5407.86
+**/**/1987,Male,"**,**, United States",$3191.09
+**/**/1987,Male,"**,**, United States",$7402.15
+**/**/1987,Male,"**,**, United States",$7817.66
+**/**/1988,Female,"**,**, France",$1598.58
+**/**/1988,Female,"**,**, France",$4953.85
+**/**/1988,Female,"**,**, Portugal",$3223.62
+**/**/1988,Female,"**,**, Portugal",$4302.66
+**/**/1988,Female,"**,**, Portugal",$6594.48
+**/**/1988,Female,"**,**, Portugal",$3721.36
+**/**/1988,Female,"**,**, Portugal",$7091.02
+**/**/1988,Female,"**,**, Portugal",$4772.43
+**/**/1988,Female,"**,**, Sweden",$6144.12
+**/**/1988,Female,"**,**, Sweden",$2250.17
+**/**/1988,Female,"**,**, Sweden",$3011.36
+**/**/1988,Female,"**,**, United States",$1348.47
+**/**/1988,Female,"**,**, United States",$7157.05
+**/**/1988,Female,"**,**, United States",$4199.58
+**/**/1988,Female,"**,**, United States",$4305.72
+**/**/1988,Female,"**,**, United States",$4117.83
+**/**/1988,Male,"**,**, Portugal",$2944.40
+**/**/1988,Male,"**,**, Portugal",$4590.54
+**/**/1988,Male,"**,**, Portugal",$6298.92
+**/**/1988,Male,"**,**, Portugal",$2566.78
+**/**/1988,Male,"**,**, Sweden",$1574.30
+**/**/1988,Male,"**,**, Sweden",$962.08
+**/**/1988,Male,"**,**, Sweden",$2746.65
+**/**/1988,Male,"**,**, United States",$2843.99
+**/**/1988,Male,"**,**, United States",$3621.99
+**/**/1989,Female,"**,**, France",$2004.14
+**/**/1989,Female,"**,**, France",$1280.62
+**/**/1989,Female,"**,**, France",$4400.91
+**/**/1989,Female,"**,**, France",$1355.25
+**/**/1989,Female,"**,**, France",$6728.72
+**/**/1989,Female,"**,**, France",$7068.52
+**/**/1989,Female,"**,**, Mexico",$7018.06
+**/**/1989,Female,"**,**, Mexico",$2837.82
+**/**/1989,Female,"**,**, Sweden",$1370.53
+**/**/1989,Female,"**,**, Sweden",$5830.80
+**/**/1989,Female,"**,**, United States",$2495.07
+**/**/1989,Female,"**,**, United States",$2775.31
+**/**/1989,Female,"**,**, United States",$7511.52
+**/**/1989,Female,"**,**, United States",$6742.63
+**/**/1989,Male,"**,**, France",$1186.54
+**/**/1989,Male,"**,**, France",$5700.29
+**/**/1989,Male,"**,**, France",$1655.67
+**/**/1989,Male,"**,**, Mexico",$2344.10
+**/**/1989,Male,"**,**, Mexico",$996.76
+**/**/1989,Male,"**,**, Portugal",$1858.90
+**/**/1989,Male,"**,**, Portugal",$5108.35
+**/**/1989,Male,"**,**, Sweden",$6874.81
+**/**/1989,Male,"**,**, Sweden",$3218.09
+**/**/1989,Male,"**,**, Sweden",$7745.97
+**/**/1989,Male,"**,**, United States",$1900.04
+**/**/1989,Male,"**,**, United States",$4260.81
+**/**/1990,Female,"**,**, France",$2201.87
+**/**/1990,Female,"**,**, France",$4627.31
+**/**/1990,Female,"**,**, France",$7279.48
+**/**/1990,Female,"**,**, Mexico",$3556.11
+**/**/1990,Female,"**,**, Mexico",$3814.74
+**/**/1990,Female,"**,**, Portugal",$3878.76
+**/**/1990,Female,"**,**, Portugal",$6376.96
+**/**/1990,Female,"**,**, Sweden",$1900.48
+**/**/1990,Female,"**,**, Sweden",$6509.58
+**/**/1990,Male,"**,**, Mexico",$883.43
+**/**/1990,Male,"**,**, Mexico",$6445.22
+**/**/1990,Male,"**,**, Portugal",$1245.80
+**/**/1990,Male,"**,**, Portugal",$6680.18
+**/**/1990,Male,"**,**, Portugal",$5746.59
+**/**/1990,Male,"**,**, Sweden",$7175.98
+**/**/1990,Male,"**,**, Sweden",$4682.04
+**/**/1990,Male,"**,**, United States",$7638.46
+**/**/1990,Male,"**,**, United States",$2065.92
+**/**/1990,Male,"**,**, United States",$4901.14
+**/**/1991,Female,"**,**, France",$2772.86
+**/**/1991,Female,"**,**, France",$6410.80
+**/**/1991,Female,"**,**, France",$1073.36
+**/**/1991,Female,"**,**, Portugal",$5189.45
+**/**/1991,Female,"**,**, Portugal",$4371.91
+**/**/1991,Female,"**,**, Portugal",$7482.17
+**/**/1991,Female,"**,**, Portugal",$7198.71
+**/**/1991,Female,"**,**, United States",$1329.70
+**/**/1991,Female,"**,**, United States",$1899.31
+**/**/1991,Female,"**,**, United States",$1288.62
+**/**/1991,Male,"**,**, Mexico",$3076.92
+**/**/1991,Male,"**,**, Mexico",$5747.87
+**/**/1991,Male,"**,**, Portugal",$6417.75
+**/**/1991,Male,"**,**, Portugal",$7147.42
+**/**/1991,Male,"**,**, Portugal",$7831.28
+**/**/1991,Male,"**,**, United States",$4879.74
+**/**/1991,Male,"**,**, United States",$7248.09
+**/**/1991,Male,"**,**, United States",$2891.78
+**/**/1992,Female,"**,**, Canada",$4234.16
+**/**/1992,Female,"**,**, Canada",$4139.57
+**/**/1992,Female,"**,**, France",$1484.69
+**/**/1992,Female,"**,**, France",$5763.40
+**/**/1992,Female,"**,**, Portugal",$2849.06
+**/**/1992,Female,"**,**, Portugal",$7816.46
+**/**/1992,Male,"**,**, France",$3827.17
+**/**/1992,Male,"**,**, France",$6363.88
+**/**/1992,Male,"**,**, Sweden",$5169.65
+**/**/1992,Male,"**,**, Sweden",$3775.21
+**/**/1993,Female,"**,**, Canada",$5727.15
+**/**/1993,Female,"**,**, Canada",$7096.91
+**/**/1993,Female,"**,**, France",$6974.65
+**/**/1993,Female,"**,**, France",$4480.55
+**/**/1993,Female,"**,**, France",$5796.92
+**/**/1993,Female,"**,**, Mexico",$6528.84
+**/**/1993,Female,"**,**, Mexico",$2071.57
+**/**/1993,Female,"**,**, Portugal",$5532.48
+**/**/1993,Female,"**,**, Portugal",$4550.26
+**/**/1993,Female,"**,**, Sweden",$5240.94
+**/**/1993,Female,"**,**, Sweden",$2587.45
+**/**/1993,Female,"**,**, United States",$3472.73
+**/**/1993,Female,"**,**, United States",$4241.71
+**/**/1993,Female,"**,**, United States",$3031.23
+**/**/1993,Male,"**,**, Sweden",$1455.74
+**/**/1993,Male,"**,**, Sweden",$3689.16
+**/**/1993,Male,"**,**, United States",$4300.13
+**/**/1993,Male,"**,**, United States",$3036.16
+**/**/1994,Female,"**,**, France",$2236.23
+**/**/1994,Female,"**,**, France",$2874.62
+**/**/1994,Female,"**,**, Mexico",$6285.72
+**/**/1994,Female,"**,**, Mexico",$2723.11
+**/**/1994,Female,"**,**, Portugal",$5268.85
+**/**/1994,Female,"**,**, Portugal",$7467.66
+**/**/1994,Female,"**,**, Portugal",$5252.25
+**/**/1994,Female,"**,**, Sweden",$4966.48
+**/**/1994,Female,"**,**, Sweden",$1916.17
+**/**/1994,Female,"**,**, Sweden",$7586.61
+**/**/1994,Female,"**,**, Sweden",$1430.78
+**/**/1994,Female,"**,**, United States",$3041.78
+**/**/1994,Female,"**,**, United States",$2781.81
+**/**/1994,Male,"**,**, Canada",$4511.71
+**/**/1994,Male,"**,**, Canada",$7753.78
+**/**/1994,Male,"**,**, France",$5689.99
+**/**/1994,Male,"**,**, France",$4879.99
+**/**/1994,Male,"**,**, Mexico",$6686.36
+**/**/1994,Male,"**,**, Mexico",$3389.21
+**/**/1994,Male,"**,**, Mexico",$3408.00
+**/**/1994,Male,"**,**, Portugal",$4504.29
+**/**/1994,Male,"**,**, Portugal",$7857.47
+**/**/1994,Male,"**,**, Portugal",$1809.17
+**/**/1994,Male,"**,**, Portugal",$2437.75
+**/**/1994,Male,"**,**, Portugal",$2666.96
+**/**/1994,Male,"**,**, Portugal",$2533.59
+**/**/1994,Male,"**,**, Portugal",$6043.66
+**/**/1994,Male,"**,**, Sweden",$5726.93
+**/**/1994,Male,"**,**, Sweden",$6525.63
+**/**/1995,Female,"**,**, France",$2565.78
+**/**/1995,Female,"**,**, France",$3227.73
+**/**/1995,Female,"**,**, Mexico",$5563.62
+**/**/1995,Female,"**,**, Mexico",$3667.75
+**/**/1995,Female,"**,**, Mexico",$1483.52
+**/**/1995,Female,"**,**, Portugal",$2363.38
+**/**/1995,Female,"**,**, Portugal",$5848.86
+**/**/1995,Female,"**,**, United States",$3480.31
+**/**/1995,Female,"**,**, United States",$5116.24
+**/**/1995,Female,"**,**, United States",$5057.48
+**/**/1995,Male,"**,**, France",$2208.72
+**/**/1995,Male,"**,**, France",$3770.58
+**/**/1995,Male,"**,**, Mexico",$959.80
+**/**/1995,Male,"**,**, Mexico",$7844.90
+**/**/1995,Male,"**,**, Portugal",$6842.64
+**/**/1995,Male,"**,**, Portugal",$4389.71
+**/**/1995,Male,"**,**, Portugal",$6584.92
+**/**/1995,Male,"**,**, Portugal",$2582.92
+**/**/1995,Male,"**,**, Portugal",$2608.66
+**/**/1995,Male,"**,**, United States",$1697.67
+**/**/1995,Male,"**,**, United States",$2946.19
+**/**/1995,Male,"**,**, United States",$1967.98
+**/**/1996,Female,"**,**, Canada",$1693.13
+**/**/1996,Female,"**,**, Canada",$7370.54
+**/**/1996,Female,"**,**, France",$1934.60
+**/**/1996,Female,"**,**, France",$7410.13
+**/**/1996,Female,"**,**, Mexico",$1144.42
+**/**/1996,Female,"**,**, Mexico",$2667.16
+**/**/1996,Female,"**,**, Mexico",$4970.32
+**/**/1996,Female,"**,**, Mexico",$1780.40
+**/**/1996,Female,"**,**, Portugal",$2642.75
+**/**/1996,Female,"**,**, Portugal",$7753.83
+**/**/1996,Female,"**,**, Portugal",$7588.24
+**/**/1996,Female,"**,**, Portugal",$2981.49
+**/**/1996,Female,"**,**, Sweden",$2541.75
+**/**/1996,Female,"**,**, Sweden",$2923.67
+**/**/1996,Female,"**,**, Sweden",$6059.58
+**/**/1996,Female,"**,**, Sweden",$6416.83
+**/**/1996,Female,"**,**, Sweden",$2172.78
+**/**/1996,Female,"**,**, United States",$1031.51
+**/**/1996,Female,"**,**, United States",$4441.41
+**/**/1996,Male,"**,**, France",$4354.51
+**/**/1996,Male,"**,**, France",$6606.39
+**/**/1996,Male,"**,**, France",$6648.08
+**/**/1996,Male,"**,**, France",$5620.85
+**/**/1996,Male,"**,**, France",$5362.26
+**/**/1996,Male,"**,**, United States",$6488.85
+**/**/1996,Male,"**,**, United States",$3911.57
+**/**/1997,Female,"**,**, Canada",$5974.55
+**/**/1997,Female,"**,**, Canada",$1647.59
+**/**/1997,Female,"**,**, France",$5536.87
+**/**/1997,Female,"**,**, France",$6428.54
+**/**/1997,Female,"**,**, France",$5891.93
+**/**/1997,Female,"**,**, Portugal",$7077.49
+**/**/1997,Female,"**,**, Portugal",$3572.00
+**/**/1997,Female,"**,**, Portugal",$1575.77
+**/**/1997,Female,"**,**, Sweden",$6062.26
+**/**/1997,Female,"**,**, Sweden",$4718.05
+**/**/1997,Female,"**,**, Sweden",$1624.94
+**/**/1997,Female,"**,**, Sweden",$7858.32
+**/**/1997,Female,"**,**, United States",$5428.38
+**/**/1997,Female,"**,**, United States",$6834.47
+**/**/1997,Female,"**,**, United States",$2306.02
+**/**/1997,Female,"**,**, United States",$4630.14
+**/**/1997,Male,"**,**, Portugal",$1247.98
+**/**/1997,Male,"**,**, Portugal",$4461.88
+**/**/1997,Male,"**,**, Sweden",$938.01
+**/**/1997,Male,"**,**, Sweden",$1823.14
+**/**/1997,Male,"**,**, United States",$5366.98
+**/**/1997,Male,"**,**, United States",$5130.58
+**/**/1998,Female,"**,**, Canada",$979.70
+**/**/1998,Female,"**,**, Canada",$7697.11
+**/**/1998,Female,"**,**, France",$2306.32
+**/**/1998,Female,"**,**, France",$7201.06
+**/**/1998,Female,"**,**, Mexico",$3769.13
+**/**/1998,Female,"**,**, Mexico",$4460.26
+**/**/1998,Female,"**,**, Portugal",$6030.61
+**/**/1998,Female,"**,**, Portugal",$6545.90
+**/**/1998,Female,"**,**, Portugal",$2270.42
+**/**/1998,Female,"**,**, Sweden",$4576.59
+**/**/1998,Female,"**,**, Sweden",$7553.46
+**/**/1998,Female,"**,**, Sweden",$6075.15
+**/**/1998,Female,"**,**, United States",$3562.87
+**/**/1998,Female,"**,**, United States",$4324.50
+**/**/1998,Male,"**,**, Canada",$4094.94
+**/**/1998,Male,"**,**, Canada",$4675.13
+**/**/1998,Male,"**,**, Canada",$4067.61
+**/**/1998,Male,"**,**, France",$5323.97
+**/**/1998,Male,"**,**, France",$6769.72
+**/**/1998,Male,"**,**, France",$4491.03
+**/**/1998,Male,"**,**, Portugal",$6954.30
+**/**/1998,Male,"**,**, Portugal",$2381.31
+**/**/1999,Female,"**,**, France",$6940.06
+**/**/1999,Female,"**,**, France",$1622.32
+**/**/1999,Female,"**,**, France",$1467.94
+**/**/1999,Female,"**,**, France",$6424.69
+**/**/1999,Female,"**,**, United States",$4924.11
+**/**/1999,Female,"**,**, United States",$6285.14
+**/**/1999,Female,"**,**, United States",$5896.63
+**/**/1999,Female,"**,**, United States",$2460.19
+**/**/1999,Male,"**,**, France",$7900.09
+**/**/1999,Male,"**,**, France",$5736.48
+**/**/1999,Male,"**,**, Mexico",$4430.56
+**/**/1999,Male,"**,**, Mexico",$1452.90
+**/**/1999,Male,"**,**, Mexico",$1534.82
+**/**/1999,Male,"**,**, Mexico",$5328.86
+**/**/1999,Male,"**,**, Portugal",$2534.88
+**/**/1999,Male,"**,**, Portugal",$5979.17
+**/**/1999,Male,"**,**, Portugal",$6999.54
+**/**/1999,Male,"**,**, Sweden",$5383.93
+**/**/1999,Male,"**,**, Sweden",$6492.17
+**/**/1999,Male,"**,**, Sweden",$4542.92
+**/**/1999,Male,"**,**, Sweden",$4632.50
+**/**/1999,Male,"**,**, Sweden",$4615.15
+**/**/1999,Male,"**,**, United States",$4941.92
+**/**/1999,Male,"**,**, United States",$3911.50
+**/**/1999,Male,"**,**, United States",$1575.72
+**/**/2000,Female,"**,**, Canada",$4938.67
+**/**/2000,Female,"**,**, Canada",$4762.01
+**/**/2000,Female,"**,**, France",$7274.50
+**/**/2000,Female,"**,**, France",$5368.06
+**/**/2000,Female,"**,**, Mexico",$7103.44
+**/**/2000,Female,"**,**, Mexico",$1126.55
+**/**/2000,Female,"**,**, Mexico",$5966.72
+**/**/2000,Female,"**,**, Portugal",$5737.46
+**/**/2000,Female,"**,**, Portugal",$1411.11
+**/**/2000,Female,"**,**, Portugal",$4466.02
+**/**/2000,Female,"**,**, Portugal",$6154.03
+**/**/2000,Female,"**,**, Portugal",$3114.52
+**/**/2000,Female,"**,**, Sweden",$6250.72
+**/**/2000,Female,"**,**, Sweden",$4941.80
+**/**/2000,Female,"**,**, Sweden",$3615.07
+**/**/2000,Female,"**,**, Sweden",$3800.57
+**/**/2000,Female,"**,**, Sweden",$5087.05
+**/**/2000,Female,"**,**, United States",$6964.99
+**/**/2000,Female,"**,**, United States",$1676.91
+**/**/2000,Female,"**,**, United States",$5152.79
+**/**/2000,Female,"**,**, United States",$5196.14
+**/**/2000,Female,"**,**, United States",$7530.19
+**/**/2000,Male,"**,**, France",$2851.56
+**/**/2000,Male,"**,**, France",$4510.14
+**/**/2000,Male,"**,**, Mexico",$4477.79
+**/**/2000,Male,"**,**, Mexico",$7718.68
+**/**/2000,Male,"**,**, Mexico",$3209.90
+**/**/2000,Male,"**,**, Sweden",$3472.88
+**/**/2000,Male,"**,**, Sweden",$919.06
+**/**/2000,Male,"**,**, Sweden",$5745.78
+**/**/2000,Male,"**,**, Sweden",$2321.79
+**/**/2001,Female,"**,**, Canada",$2894.36
+**/**/2001,Female,"**,**, Canada",$6431.42
+**/**/2001,Female,"**,**, France",$3747.55
+**/**/2001,Female,"**,**, France",$4544.05
+**/**/2001,Female,"**,**, Mexico",$2690.43
+**/**/2001,Female,"**,**, Mexico",$2184.75
+**/**/2001,Female,"**,**, Mexico",$5229.44
+**/**/2001,Female,"**,**, United States",$5892.17
+**/**/2001,Female,"**,**, United States",$2622.47
+**/**/2001,Male,"**,**, France",$7665.32
+**/**/2001,Male,"**,**, France",$3316.55
+**/**/2001,Male,"**,**, France",$3381.06
+**/**/2001,Male,"**,**, Portugal",$4663.87
+**/**/2001,Male,"**,**, Portugal",$6118.17
+**/**/2001,Male,"**,**, Portugal",$7491.62
+**/**/2002,Female,"**,**, France",$6889.74
+**/**/2002,Female,"**,**, France",$7213.98
+**/**/2002,Female,"**,**, France",$5843.31
+**/**/2002,Female,"**,**, France",$5198.50
+**/**/2002,Female,"**,**, France",$1032.68
+**/**/2002,Female,"**,**, Portugal",$4332.69
+**/**/2002,Female,"**,**, Portugal",$7649.68
+**/**/2002,Female,"**,**, Sweden",$4874.88
+**/**/2002,Female,"**,**, Sweden",$1609.66
+**/**/2002,Female,"**,**, Sweden",$1798.82
+**/**/2002,Female,"**,**, United States",$1041.43
+**/**/2002,Female,"**,**, United States",$5805.91
+**/**/2002,Male,"**,**, France",$7512.12
+**/**/2002,Male,"**,**, France",$3635.14
+**/**/2002,Male,"**,**, Portugal",$7540.04
+**/**/2002,Male,"**,**, Portugal",$7917.34
+**/**/2002,Male,"**,**, United States",$1175.28
+**/**/2002,Male,"**,**, United States",$1006.79
+**/**/2003,Female,"**,**, France",$5080.95
+**/**/2003,Female,"**,**, France",$1422.11
+**/**/2003,Female,"**,**, Portugal",$2137.01
+**/**/2003,Female,"**,**, Portugal",$4930.40
+**/**/2003,Female,"**,**, Sweden",$7582.88
+**/**/2003,Female,"**,**, Sweden",$886.98
+**/**/2003,Female,"**,**, Sweden",$6190.47
+**/**/2003,Female,"**,**, United States",$6243.42
+**/**/2003,Female,"**,**, United States",$1839.10
+**/**/2003,Female,"**,**, United States",$1668.43
+**/**/2003,Male,"**,**, Canada",$6593.84
+**/**/2003,Male,"**,**, Canada",$3585.21
+**/**/2003,Male,"**,**, France",$4105.04
+**/**/2003,Male,"**,**, France",$1768.62
+**/**/2003,Male,"**,**, Mexico",$4663.81
+**/**/2003,Male,"**,**, Mexico",$7646.16
+**/**/2003,Male,"**,**, Portugal",$7386.55
+**/**/2003,Male,"**,**, Portugal",$5214.50
+**/**/2003,Male,"**,**, Portugal",$6760.76
+**/**/2003,Male,"**,**, Portugal",$7779.56
+**/**/2003,Male,"**,**, Portugal",$4260.82
+**/**/2003,Male,"**,**, Portugal",$7421.85
+**/**/2003,Male,"**,**, Portugal",$7070.82
+**/**/2004,Female,"**,**, Canada",$7209.03
+**/**/2004,Female,"**,**, Canada",$7039.05
+**/**/2004,Female,"**,**, France",$1191.96
+**/**/2004,Female,"**,**, France",$6148.93
+**/**/2004,Female,"**,**, France",$2463.52
+**/**/2004,Female,"**,**, France",$2671.01
+**/**/2004,Female,"**,**, Mexico",$7803.39
+**/**/2004,Female,"**,**, Mexico",$7048.51
+**/**/2004,Female,"**,**, Portugal",$3639.38
+**/**/2004,Female,"**,**, Portugal",$5798.07
+**/**/2004,Female,"**,**, Sweden",$5477.25
+**/**/2004,Female,"**,**, Sweden",$4306.65
+**/**/2004,Female,"**,**, United States",$3435.26
+**/**/2004,Female,"**,**, United States",$7942.98
+**/**/2004,Female,"**,**, United States",$5447.94
+**/**/2004,Female,"**,**, United States",$1812.50
+**/**/2004,Male,"**,**, Canada",$1129.83
+**/**/2004,Male,"**,**, Canada",$1405.83
+**/**/2004,Male,"**,**, France",$5054.87
+**/**/2004,Male,"**,**, France",$4907.54
+**/**/2004,Male,"**,**, France",$3511.27
+**/**/2004,Male,"**,**, France",$4826.17
+**/**/2004,Male,"**,**, France",$880.79
+**/**/2004,Male,"**,**, Mexico",$6995.08
+**/**/2004,Male,"**,**, Mexico",$4531.43
+**/**/2004,Male,"**,**, Sweden",$6630.49
+**/**/2004,Male,"**,**, Sweden",$3875.41
+**/**/2004,Male,"**,**, Sweden",$4107.46
+**/**/2004,Male,"**,**, United States",$5946.05
+**/**/2004,Male,"**,**, United States",$1342.37
+**/**/2005,Female,"**,**, Canada",$1310.34
+**/**/2005,Female,"**,**, Canada",$1032.14
+**/**/2005,Female,"**,**, France",$4518.41
+**/**/2005,Female,"**,**, France",$4725.00
+**/**/2005,Female,"**,**, Mexico",$6825.59
+**/**/2005,Female,"**,**, Mexico",$6230.34
+**/**/2005,Female,"**,**, Portugal",$1213.00
+**/**/2005,Female,"**,**, Portugal",$4728.31
+**/**/2005,Female,"**,**, Portugal",$6289.95
+**/**/2005,Female,"**,**, Portugal",$6172.13
+**/**/2005,Female,"**,**, Portugal",$4550.42
+**/**/2005,Female,"**,**, Portugal",$6296.35
+**/**/2005,Female,"**,**, Portugal",$5368.89
+**/**/2005,Female,"**,**, Sweden",$5609.60
+**/**/2005,Female,"**,**, Sweden",$7134.93
+**/**/2005,Female,"**,**, Sweden",$4148.82
+**/**/2005,Female,"**,**, United States",$3112.29
+**/**/2005,Female,"**,**, United States",$1509.69
+**/**/2005,Female,"**,**, United States",$3334.96
+**/**/2005,Female,"**,**, United States",$1112.80
+**/**/2005,Female,"**,**, United States",$5471.10
+**/**/2005,Male,"**,**, Canada",$7600.54
+**/**/2005,Male,"**,**, Canada",$3918.00
+**/**/2005,Male,"**,**, Canada",$5514.96
+**/**/2005,Male,"**,**, France",$1174.30
+**/**/2005,Male,"**,**, France",$3030.74
+**/**/2005,Male,"**,**, Sweden",$7937.78
+**/**/2005,Male,"**,**, Sweden",$5443.77
+**/**/2005,Male,"**,**, Sweden",$7242.59
+**/**/2005,Male,"**,**, United States",$2729.76
+**/**/2005,Male,"**,**, United States",$1966.51
+**/**/2006,Female,"**,**, Canada",$1786.57
+**/**/2006,Female,"**,**, Canada",$5372.60
+**/**/2006,Female,"**,**, France",$6325.50
+**/**/2006,Female,"**,**, France",$1907.75
+**/**/2006,Female,"**,**, France",$5503.12
+**/**/2006,Female,"**,**, France",$7606.13
+**/**/2006,Female,"**,**, Mexico",$7184.92
+**/**/2006,Female,"**,**, Mexico",$3737.37
+**/**/2006,Female,"**,**, Portugal",$2060.75
+**/**/2006,Female,"**,**, Portugal",$2533.07
+**/**/2006,Female,"**,**, Sweden",$7201.47
+**/**/2006,Female,"**,**, Sweden",$3420.93
+**/**/2006,Female,"**,**, United States",$6185.72
+**/**/2006,Female,"**,**, United States",$7947.82
+**/**/2006,Male,"**,**, Portugal",$7800.59
+**/**/2006,Male,"**,**, Portugal",$2263.59
+**/**/2006,Male,"**,**, Portugal",$2562.92
+**/**/2006,Male,"**,**, Sweden",$3003.76
+**/**/2006,Male,"**,**, Sweden",$3520.57
+**/**/2006,Male,"**,**, United States",$2454.79
+**/**/2006,Male,"**,**, United States",$2735.48
+**/**/2007,Female,"**,**, Canada",$983.67
+**/**/2007,Female,"**,**, Canada",$1611.63
+**/**/2007,Female,"**,**, Canada",$5396.24
+**/**/2007,Female,"**,**, France",$7418.79
+**/**/2007,Female,"**,**, France",$6432.81
+**/**/2007,Female,"**,**, France",$6827.27
+**/**/2007,Female,"**,**, France",$7634.03
+**/**/2007,Female,"**,**, Sweden",$7478.53
+**/**/2007,Female,"**,**, Sweden",$4348.19
+**/**/2007,Female,"**,**, Sweden",$2385.96
+**/**/2007,Female,"**,**, United States",$7653.00
+**/**/2007,Female,"**,**, United States",$5663.67
+**/**/2007,Female,"**,**, United States",$3591.60
+**/**/2007,Female,"**,**, United States",$4942.31
+**/**/2007,Male,"**,**, France",$3533.25
+**/**/2007,Male,"**,**, France",$6749.86
+**/**/2007,Male,"**,**, France",$7689.77
+**/**/2007,Male,"**,**, France",$2942.07
+**/**/2007,Male,"**,**, Portugal",$7833.82
+**/**/2007,Male,"**,**, Portugal",$4578.33
+**/**/2007,Male,"**,**, Portugal",$7313.37
+**/**/2007,Male,"**,**, Sweden",$2411.09
+**/**/2007,Male,"**,**, Sweden",$7468.47
+**/**/2007,Male,"**,**, United States",$813.67
+**/**/2007,Male,"**,**, United States",$3435.80
+**/**/2007,Male,"**,**, United States",$2476.57
+**/**/2007,Male,"**,**, United States",$1681.00
+**/**/2007,Male,"**,**, United States",$7890.52
+**/**/2008,Female,"**,**, Portugal",$6907.90
+**/**/2008,Female,"**,**, Portugal",$6520.97
+**/**/2008,Female,"**,**, Portugal",$6105.52
+**/**/2008,Female,"**,**, Sweden",$4109.65
+**/**/2008,Female,"**,**, Sweden",$7268.00
+**/**/2008,Female,"**,**, Sweden",$939.87
+**/**/2008,Female,"**,**, United States",$1320.94
+**/**/2008,Female,"**,**, United States",$4329.22
+**/**/2008,Female,"**,**, United States",$3720.58
+**/**/2008,Male,"**,**, Canada",$7816.91
+**/**/2008,Male,"**,**, Canada",$991.46
+**/**/2008,Male,"**,**, France",$4254.84
+**/**/2008,Male,"**,**, France",$3542.00
+**/**/2008,Male,"**,**, France",$2329.05
+**/**/2008,Male,"**,**, Mexico",$7170.52
+**/**/2008,Male,"**,**, Mexico",$3602.31
+**/**/2008,Male,"**,**, Mexico",$1403.09
+**/**/2008,Male,"**,**, Portugal",$2142.15
+**/**/2008,Male,"**,**, Portugal",$5825.82
+**/**/2008,Male,"**,**, Portugal",$1618.95
+**/**/2008,Male,"**,**, United States",$5236.49
+**/**/2008,Male,"**,**, United States",$6841.99
+**/**/2008,Male,"**,**, United States",$3306.51
+**/**/2009,Female,"**,**, Mexico",$2858.06
+**/**/2009,Female,"**,**, Mexico",$2098.58
+**/**/2009,Female,"**,**, Portugal",$1665.32
+**/**/2009,Female,"**,**, Portugal",$5213.70
+**/**/2009,Female,"**,**, Portugal",$3483.46
+**/**/2009,Female,"**,**, Portugal",$3303.24
+**/**/2009,Female,"**,**, Portugal",$7591.61
+**/**/2009,Female,"**,**, United States",$805.10
+**/**/2009,Female,"**,**, United States",$7311.26
+**/**/2009,Male,"**,**, France",$6712.81
+**/**/2009,Male,"**,**, France",$5216.68
+**/**/2009,Male,"**,**, France",$7519.69
+**/**/2009,Male,"**,**, France",$2558.15
+**/**/2009,Male,"**,**, Portugal",$3078.97
+**/**/2009,Male,"**,**, Portugal",$4575.88
+**/**/2009,Male,"**,**, Sweden",$7665.45
+**/**/2009,Male,"**,**, Sweden",$6721.69
+**/**/2009,Male,"**,**, Sweden",$6261.32
+**/**/2010,Female,"**,**, France",$7595.55
+**/**/2010,Female,"**,**, France",$2902.49
+**/**/2010,Female,"**,**, France",$1999.59
+**/**/2010,Female,"**,**, France",$2118.25
+**/**/2010,Female,"**,**, Portugal",$5730.25
+**/**/2010,Female,"**,**, Portugal",$6508.41
+**/**/2010,Female,"**,**, United States",$6968.33
+**/**/2010,Female,"**,**, United States",$7983.68
+**/**/2010,Male,"**,**, Canada",$2617.72
+**/**/2010,Male,"**,**, Canada",$5387.93
+**/**/2010,Male,"**,**, Canada",$1876.11
+**/**/2010,Male,"**,**, France",$6336.71
+**/**/2010,Male,"**,**, France",$3645.69
+**/**/2010,Male,"**,**, France",$1824.90
+**/**/2010,Male,"**,**, Sweden",$2260.68
+**/**/2010,Male,"**,**, Sweden",$2969.04
+**/**/1982,*,"**,**, France",$2458.05
+**/**/1982,*,"**,**, France",$1160.10
+**/**/1983,*,"**,**, United Kingdom",$1127.28
+**/**/1983,*,"**,**, United Kingdom",$1569.15
+**/**/1985,*,"**,**, Canada",$4501.34
+**/**/1985,*,"**,**, Canada",$4468.31
+**/**/1988,*,"**,**, Canada",$3401.73
+**/**/1988,*,"**,**, Canada",$2465.50
+**/**/1990,*,"**,**, Canada",$4627.92
+**/**/1990,*,"**,**, Canada",$6642.44
+**/**/1991,*,"**,**, Sweden",$1240.82
+**/**/1991,*,"**,**, Sweden",$7290.49
+**/**/1992,*,"**,**, United States",$5307.88
+**/**/1992,*,"**,**, United States",$3912.08
+**/**/1995,*,"**,**, Canada",$3609.17
+**/**/1995,*,"**,**, Canada",$7782.63
+**/**/2002,*,"**,**, Canada",$5937.25
+**/**/2002,*,"**,**, Canada",$1403.76
+**/**/****,*,"**,**, Canada",$6289.41
+**/**/****,*,"**,**, Canada",$7913.17
+**/**/****,*,"**,**, Canada",$7376.21
+**/**/****,*,"**,**, Canada",$5469.92
+**/**/****,*,"**,**, Canada",$4910.20
+**/**/****,*,"**,**, Canada",$7760.58
+**/**/****,*,"**,**, Canada",$6095.84
+**/**/****,*,"**,**, Canada",$5677.74
+**/**/****,*,"**,**, Canada",$7202.18
+**/**/****,*,"**,**, France",$1841.41
+**/**/****,*,"**,**, France",$1350.28
+**/**/****,*,"**,**, France",$5410.56
+**/**/****,*,"**,**, France",$3988.74
+**/**/****,*,"**,**, France",$1399.34
+**/**/****,*,"**,**, France",$4468.57
+**/**/****,*,"**,**, France",$1366.21
+**/**/****,*,"**,**, France",$7680.45
+**/**/****,*,"**,**, Mexico",$4077.84
+**/**/****,*,"**,**, Mexico",$6340.24
+**/**/****,*,"**,**, Mexico",$7049.85
+**/**/****,*,"**,**, Mexico",$7303.77
+**/**/****,*,"**,**, Mexico",$1095.44
+**/**/****,*,"**,**, Mexico",$7814.46
+**/**/****,*,"**,**, Mexico",$2435.84
+**/**/****,*,"**,**, Mexico",$1188.11
+**/**/****,*,"**,**, Mexico",$2407.39
+**/**/****,*,"**,**, Mexico",$1395.82
+**/**/****,*,"**,**, Mexico",$2587.42
+**/**/****,*,"**,**, Mexico",$2280.82
+**/**/****,*,"**,**, Mexico",$4210.02
+**/**/****,*,"**,**, Mexico",$1390.00
+**/**/****,*,"**,**, Mexico",$7517.14
+**/**/****,*,"**,**, Mexico",$4856.16
+**/**/****,*,"**,**, Portugal",$7327.12
+**/**/****,*,"**,**, Portugal",$3717.17
+**/**/****,*,"**,**, Portugal",$5530.59
+**/**/****,*,"**,**, Portugal",$4919.65
+**/**/****,*,"**,**, Portugal",$6549.93
+**/**/****,*,"**,**, Portugal",$6191.96
+**/**/****,*,"**,**, Portugal",$1684.26
+**/**/****,*,"**,**, Portugal",$5191.05
+**/**/****,*,"**,**, Portugal",$6187.48
+**/**/****,*,"**,**, Portugal",$2261.44
+**/**/****,*,"**,**, Portugal",$4323.07
+**/**/****,*,"**,**, Portugal",$6184.82
+**/**/****,*,"**,**, Portugal",$2320.29
+**/**/****,*,"**,**, Sweden",$5435.41
+**/**/****,*,"**,**, Sweden",$6552.66
+**/**/****,*,"**,**, Sweden",$4862.69
+**/**/****,*,"**,**, Sweden",$2293.48
+**/**/****,*,"**,**, Sweden",$1583.21
+**/**/****,*,"**,**, Sweden",$2096.28
+**/**/****,*,"**,**, Sweden",$2946.37
+**/**/****,*,"**,**, Sweden",$6293.42
+**/**/****,*,"**,**, Sweden",$5891.65
+**/**/****,*,"**,**, Sweden",$3625.99
+**/**/****,*,"**,**, Sweden",$3358.30
+**/**/****,*,"**,**, Sweden",$2468.51
+**/**/****,*,"**,**, Sweden",$2789.50
+**/**/****,*,"**,**, Sweden",$2692.72
+**/**/****,*,"**,**, Sweden",$6819.26
+**/**/****,*,"**,**, United Kingdom",$3585.70
+**/**/****,*,"**,**, United Kingdom",$7166.43
+**/**/****,*,"**,**, United Kingdom",$2367.97
+**/**/****,*,"**,**, United Kingdom",$1735.93
+**/**/****,*,"**,**, United Kingdom",$809.15
+**/**/****,*,"**,**, United Kingdom",$1385.97
+**/**/****,*,"**,**, United Kingdom",$1887.39
+**/**/****,*,"**,**, United Kingdom",$6517.73
+**/**/****,*,"**,**, United Kingdom",$1622.77
+**/**/****,*,"**,**, United Kingdom",$3561.11
+**/**/****,*,"**,**, United Kingdom",$3837.29
+**/**/****,*,"**,**, United States",$4178.43
+**/**/****,*,"**,**, United States",$6553.93
+**/**/****,*,"**,**, United States",$1165.10
+**/**/****,*,"**,**, United States",$4095.50
+**/**/****,*,"**,**, United States",$3006.83
+**/**/****,*,"**,**, United States",$7700.50
+**/**/****,*,"**,**, United States",$4979.70
+**/**/****,*,"**,**, United States",$7749.41
+Precision is 0.6001
